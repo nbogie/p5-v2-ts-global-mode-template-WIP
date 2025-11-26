@@ -1,5 +1,7 @@
-//TODO: use a much much simpler example as a test subject
-
+//this function is just here as an example for unit testing
+export function addTwoNumbers(a: number, b: number): number {
+    return a + b;
+}
 /**
  * Creates an array of numElements containing the collected results of calling the given function repeatedly.
  * @example

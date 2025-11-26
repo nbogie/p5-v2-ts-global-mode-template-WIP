@@ -47,3 +47,9 @@ To make another project like this one, it is easiest to run
 Alternatively, just download the template as a zip and delete any files listed in degit.json
 
 If you're using github, and want to create a new repo there, you can click on `use this template`.  [More detail, if needed, is here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+
+## Other p5 project starters
+
+Want a starter for p5 v1 ?  v2?  TS?  JS with type-checking?  Global mode ?  Instance Mode?
+
+https://github.com/nbogie/p5-beyond-the-web-editor-neill/blob/main/docs/starter-projects.md

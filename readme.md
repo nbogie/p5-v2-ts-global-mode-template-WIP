@@ -26,6 +26,14 @@ npm run build
 npm run build:readable
 ```
 
+## optional: Running unit tests
+
+Note, these are not set up to test with p5 functions or values yet, so are of limited use.
+
+```bash
+npm run test
+```
+
 ## About this project's template
 
 This project was set up by making a copy of this template: https://github.com/nbogie/p5-v2-ts-global-mode-template-WIP

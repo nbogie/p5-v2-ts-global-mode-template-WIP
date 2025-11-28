@@ -6,7 +6,7 @@
     "scripts": {
         "dev": "vite",
         "build": "tsc && vite build",
-        "build:readable:WIP": "tsc && vite build --config vite-no-bundling.config.js",
+        "build:for-web-editors": "tsc && vite build --config vite.for-web-editors.config.js",
         "test": "vitest",
         "type-check": "tsc --noEmit",
         "type-check:watch": "tsc --noEmit --watch",
